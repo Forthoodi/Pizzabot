@@ -1,0 +1,6 @@
+#pizza bot  programm 
+
+from unicodedata import name
+
+
+name = "Mikara", "Louis" , "Jodek " , "Karlo " ,"Tomas", "James" , 
